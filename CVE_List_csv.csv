@@ -1,0 +1,5 @@
+Hostname,CVE,Vulnerability Name,Age (days),CVSS Score
+antonbtest,CVE-2024-43461,Windows MSHTML Platform Spoofing Vulnerability,7,8.8
+antonbtest,CVE-2024-38217,Windows Mark of the Web Security Feature Bypass Vulnerability,7,5.4
+kktest,CVE-2024-43461,Windows MSHTML Platform Spoofing Vulnerability,10,8.8
+hostnameX,CVE-2024-38226,Microsoft Publisher Security Feature Bypass Vulnerability,19,7.3
